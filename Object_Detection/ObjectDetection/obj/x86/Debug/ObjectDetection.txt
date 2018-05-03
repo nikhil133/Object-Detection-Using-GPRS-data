@@ -1,0 +1,48 @@
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\bin\Debug\AutoMineDetect.exe
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\bin\Debug\AutoMineDetect.pdb
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\bin\Debug\Emgu.CV.dll
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\bin\Debug\Emgu.CV.GPU.dll
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\bin\Debug\Emgu.CV.ML.dll
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\bin\Debug\Emgu.CV.OCR.dll
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\bin\Debug\Emgu.CV.Stitching.dll
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\bin\Debug\Emgu.CV.UI.dll
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\bin\Debug\Emgu.Util.dll
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\bin\Debug\HDF5DotNet.dll
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\bin\Debug\ZedGraph.dll
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\bin\Debug\Emgu.CV.xml
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\bin\Debug\Emgu.CV.GPU.xml
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\bin\Debug\Emgu.CV.ML.xml
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\bin\Debug\Emgu.CV.OCR.xml
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\bin\Debug\Emgu.CV.Stitching.xml
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\bin\Debug\Emgu.CV.UI.xml
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\bin\Debug\Emgu.Util.xml
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.csprojResolveAssemblyReference.cache
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.Form1.resources
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.Properties.Resources.resources
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.csproj.GenerateResource.Cache
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.exe
+D:\nikhil\prog\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.pdb
+H:\AutoMineDetect\AutoMineDetect\bin\Debug\AutoMineDetect.exe
+H:\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.csprojResolveAssemblyReference.cache
+H:\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.Form1.resources
+H:\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.Properties.Resources.resources
+H:\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.csproj.GenerateResource.Cache
+H:\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.exe
+H:\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.pdb
+H:\project\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.exe
+H:\project\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.pdb
+H:\project\AutoMineDetect\AutoMineDetect\bin\Debug\AutoMineDetect.exe
+H:\project\AutoMineDetect\AutoMineDetect\bin\Debug\AutoMineDetect.pdb
+H:\project\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.csprojResolveAssemblyReference.cache
+H:\project\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.Form1.resources
+H:\project\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.Properties.Resources.resources
+H:\project\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.csproj.GenerateResource.Cache
+H:\DRDO Project work\project\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.exe
+H:\DRDO Project work\project\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.pdb
+H:\DRDO Project work\project\AutoMineDetect\AutoMineDetect\bin\Debug\AutoMineDetect.exe
+H:\DRDO Project work\project\AutoMineDetect\AutoMineDetect\bin\Debug\AutoMineDetect.pdb
+H:\DRDO Project work\project\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.csprojResolveAssemblyReference.cache
+H:\DRDO Project work\project\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.Form1.resources
+H:\DRDO Project work\project\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.Properties.Resources.resources
+H:\DRDO Project work\project\AutoMineDetect\AutoMineDetect\obj\x86\Debug\AutoMineDetect.csproj.GenerateResource.Cache
